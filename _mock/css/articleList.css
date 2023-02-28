@@ -1,0 +1,16 @@
+/* 要素リスト１　折り返しあり */
+.content-list-1 {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/* 要素リスト２　折り返しなし */
+.content-list-2 {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.hitokoto-auther {
+    font-size: 22px;
+    margin-bottom: 5px;
+}

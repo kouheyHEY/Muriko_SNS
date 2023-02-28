@@ -1,0 +1,19 @@
+/* footerタグ設定 */
+footer {
+    margin: 60px auto 5px;
+}
+
+/* 投稿フォーム遷移ボタン */
+.post-type-button {
+    width: 30%;
+}
+
+.post-type {
+    font-size: 36px;
+}
+
+/* コピーライト */
+.copyright {
+    margin: 20px auto 5px;
+    font-size: 18px;
+}

@@ -1,0 +1,9 @@
+/* headerタグ設定 */
+header {
+    max-width: 1200px;
+}
+
+#title {
+    margin: 5px auto 20px;
+    font-size: 24px;
+}
